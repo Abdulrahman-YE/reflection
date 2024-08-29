@@ -1,55 +1,43 @@
-# VitePress Carbon Template
+## Welcome to My Portfolio
 
-Welcome to the [VitePress Carbon](https://github.com/brenoepics/vitepress-carbon) Template repository!
-This template provides a sleek and modern documentation website built with [VitePress](https://vitepress.dev/), styled with Carbon Design System.
-Whether you're documenting a project, creating a knowledge base, or writing technical guides, this template offers a clean and professional layout to showcase your content.
+Thank you for visiting my portfolio! This site showcases the projects I've worked on and highlights my skills as a software engineer. Here, you'll find a collection of my work, demonstrating my passion for technology and problem-solving.
 
-## Getting Started
+### Table of Contents
 
-To get started with this template, follow these simple steps:
+- [About Me](#about-me)
+- [Projects](#projects)
+- [Skills](#skills)
+- [Contact](#contact)
 
-1. Click on the **"Use this template"** button to create a new repository based on this template.
+### About Me
 
-2. Clone your newly created repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   ```
+I'm a dedicated software engineer with a strong foundation in various programming languages and technologies. My journey in software development has equipped me with the skills to tackle complex problems and deliver innovative solutions.
 
-3. Navigate into the cloned repository directory:
-   ```
-   cd your-repository
-   ```
+### Projects
 
-4. Install dependencies using npm or yarn:
-   ```
-   npm install
-   # or
-   yarn install
-   ```
+Here are some of the key projects I've worked on:
 
-5. Start the development server:
-   ```
-   npm run docs:dev
-   # or
-   yarn run docs:dev
-   ```
+1. **Masked Face Recognition**
+   - Description: A machine learning model designed to overcome the challenges rised during COVID-19 pandemic. I develop it as part of research team of Computer Science department at IUTT university. If you are curious about our approach you can read the paper [HERE](https://www.researchgate.net/publication/375990864_Masked_Face_Recognition_Using_Transfer_Learning_Approaches).
+   - [View Project]()
 
-6. Open your browser and visit `http://localhost:5173` to view your documentation website.
+Feel free to explore each project for more details on my approach and the challenges faced.
 
-## Available Scripts
+### Skills
 
-- **`docs:dev`**: Start VitePress development server.
-- **`docs:build`**: Build the documentation website for production.
-- **`docs:preview`**: Preview the built documentation website.
+I have experience in the following areas:
 
-## Contributing
+- **Programming Languages:** PHP, Dart & Python
+- **Web Technologies:** Laravel, VueJS(Not so much. I hate html and css)
+- **App Development:** Flutter
+- **Databases:** MySQL, Postgres
+- **Tools & Frameworks:** Git, Docker, AWS
 
-If you find any issues, or you have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are welcome!
+### Contact
 
-## License
+I would love to hear from you! If you have any questions or would like to discuss potential opportunities, please reach out:
 
-This template is open-source and available under the [MIT License](LICENSE). Feel free to customize and use it for your projects.
+- **Email:** [abdulrahman1ye@gmail.com](mailto:abdulrahman1ye@gmail.com)
+- **LinkedIn:** [Abdulrahman Alwan](www.linkedin.com/in/abdulrahman-al-fakaih-a71a25184)
 
----
-
-Happy documenting! If you have any questions or need further assistance, don't hesitate to reach out.
+Thank you for taking the time to review my portfolio! I look forward to connecting with you.
