@@ -8,6 +8,7 @@
     "docs:preview": "vitepress preview"
   },
   "dependencies": {
+    "markdown-it-html5-embed": "^1.0.0",
     "vitepress-carbon": "^1.0.1"
   }
 }

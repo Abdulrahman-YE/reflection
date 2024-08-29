@@ -3,23 +3,26 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "Abdulrahman Alwan"
+  text: "Portfolio"
+  tagline: What did I do
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Projects
+      link: /masked-face-recognition
     - theme: alt
-      text: API Examples
+      text: Github
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: ⚙️
+    title: Backend(🐘 PHP -> Laravel)
+    details: The Hidden Beauty. The work that is often overlooked by clients, typically remaining unmeasured unless significant issues arise. For example, when a system grows in complexity, performance bottlenecks become apparent.
+  - icon: 📱
+    title: Application Development(✘ Dart -> Flutter)
+    details: The First Impressions. The External Beauty. The Immediate Feedback. 
+  - icon: 🐍
+    title: Python
+    details: 🛠️ Everything else toolkit from scripting, scraping, API clients, and Computer Vision Models
 ---
 
